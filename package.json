@@ -1,0 +1,24 @@
+{
+  "name": "js-utilities",
+  "version": "1.0.0",
+  "description": "useful utilities from javascript, typescript, node world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkaln/js-utilities.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "ts"
+  ],
+  "author": "Utkal Nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkaln/js-utilities/issues"
+  },
+  "homepage": "https://github.com/utkaln/js-utilities#readme"
+}
